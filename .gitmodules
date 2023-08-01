@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TeachingDemos"]
+	path = TeachingDemos
+	url = https://github.com/cran/TeachingDemos
 [submodule "blockrand"]
 	path = blockrand
 	url = https://github.com/cran/blockrand
 [submodule "obsSens"]
 	path = obsSens
 	url = https://github.com/cran/obsSens
-[submodule "TeachingDemos"]
-	path = TeachingDemos
-	url = https://github.com/cran/TeachingDemos
