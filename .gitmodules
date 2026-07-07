@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "R6Nomogram"]
+	path = R6Nomogram
+	url = https://github.com/glsnow/r6nomogram
+	subdir = pkg
 [submodule "TeachingDemos"]
 	path = TeachingDemos
 	url = https://github.com/glsnow/teachingdemos
